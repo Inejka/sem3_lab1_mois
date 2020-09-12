@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inejka/CLionProjects/sem3_lab1_mois/binary_normal.h
+
+/home/inejka/CLionProjects/sem3_lab1_mois/main.cpp
+iostream
+-
+binary_normal.h
+/home/inejka/CLionProjects/sem3_lab1_mois/binary_normal.h
+
